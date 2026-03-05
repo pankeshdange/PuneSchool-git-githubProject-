@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello all	
+=======
+hello all
+>>>>>>> 9bb4ded3b140b8947a0f88e7e13450d4984be964
